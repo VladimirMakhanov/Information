@@ -24,8 +24,7 @@
  - https://t.me/eth_jobs (Ethereum вакансии)
 ## **Others**
  - https://t.me/forwebdev -- Довольно неплохой канал по миру фронт-энда
-===================================
-# Гайды и сайты
+ # Гайды и сайты
 #### Пока что это будет просто общей кучкой
  - http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html -- Визуальное руководство по свойствам Flexbox из CSS3
  - http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html -- Большая статья про гриды
