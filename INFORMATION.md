@@ -14,6 +14,7 @@
 
 ## **DataScience**
  - https://t.me/bigdata_ru (AI / BigData / Machine Leraning)
+ - [Постоянно обновляемая подборка ресурсов по машинному обучению.](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/blob/master/README.md)
 
 ## **Blockchain**
  - https://t.me/eth_ru (новое сообщество по Ethereum)
@@ -22,9 +23,13 @@
  - https://t.me/javascript_jobs -- вакансии в JS
  - https://t.me/python_jobs -- вакансии по Python (не особо активно)
  - https://t.me/eth_jobs (Ethereum вакансии)
+
 ## **Others**
  - https://t.me/forwebdev -- Довольно неплохой канал по миру фронт-энда
+ 
  # Гайды и сайты
 #### Пока что это будет просто общей кучкой
- - http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html -- Визуальное руководство по свойствам Flexbox из CSS3
- - http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html -- Большая статья про гриды
+ - [Визуальное руководство по свойствам Flexbox из CSS3](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
+ - [Большая статья про гриды](http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html)
+ - [Путь Python Junior-а в 2017](https://proglib.io/p/python-junior-2017/)
+ - [Путь программиста. The server side](https://devman.org/skills/)
