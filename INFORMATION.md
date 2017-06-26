@@ -22,4 +22,10 @@
  - https://t.me/javascript_jobs -- вакансии в JS
  - https://t.me/python_jobs -- вакансии по Python (не особо активно)
  - https://t.me/eth_jobs (Ethereum вакансии)
-
+## **Others**
+ - https://t.me/forwebdev -- Довольно неплохой канал по миру фронт-энда
+===================================
+# Гайды и сайты
+#### Пока что это будет просто общей кучкой
+ - http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html -- Визуальное руководство по свойствам Flexbox из CSS3
+ - http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html -- Большая статья про гриды
