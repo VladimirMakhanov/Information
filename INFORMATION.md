@@ -33,3 +33,4 @@
  - [Большая статья про гриды](http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html)
  - [Путь Python Junior-а в 2017](https://proglib.io/p/python-junior-2017/)
  - [Путь программиста. The server side](https://devman.org/skills/)
+ - [Большая подборка материалов для изучения React](https://proglib.io/p/react-digest/)
